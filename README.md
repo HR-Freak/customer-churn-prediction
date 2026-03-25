@@ -2,9 +2,14 @@
 
 # Predictive Modelling for Retention Strategy
 
-Authors: Reynold Takura Choruma, Blanca Fernandez & Marisa Oliveira
-Project Type: Group – Data Analytics / Machine Learning
-Year: 2026
+# Telco Customer Churn Prediction  
+Predictive Modelling for Customer Retention
+
+**Author:** Marisa Oliveira  
+**Project Type:** Group Data Analytics / Machine Learning Project  
+**Year:** 2026  
+
+> Developed as part of a team project. My contributions included data preprocessing, exploratory analysis, model development, and evaluation.
 
 
 
