@@ -122,7 +122,16 @@ Although XGBoost achieved slightly higher PR-AUC, Logistic Regression was select
 
 Tree-based models remain potential candidates for future iterations if maximum predictive performance becomes the primary objective.
 
+## Interactive App
 
+A Streamlit app was developed to simulate churn scenarios and support decision-making.
+
+## Key Visualizations
+<img width="2178" height="1180" alt="image" src="https://github.com/user-attachments/assets/8be36266-49ea-4344-b8c2-7f5bd35c2720" />
+
+<img width="2380" height="1177" alt="image" src="https://github.com/user-attachments/assets/01ae2e16-a6bf-4eb0-b50d-7ec0a5c90768" />
+
+<img width="1579" height="1181" alt="image" src="https://github.com/user-attachments/assets/1868d44f-aa70-45ed-8eab-f3dcac38b93e" />
 
 # Key Business Insights
 
