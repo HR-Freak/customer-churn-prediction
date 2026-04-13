@@ -124,7 +124,7 @@ Tree-based models remain potential candidates for future iterations if maximum p
 
 ## Interactive App
 
-A Streamlit app was developed to simulate churn scenarios and support decision-making.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-isaoli.streamlit.app/)
 
 ## Key Visualizations
 <img width="2178" height="1180" alt="image" src="https://github.com/user-attachments/assets/8be36266-49ea-4344-b8c2-7f5bd35c2720" />
